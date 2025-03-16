@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gauravmali-78/gauravmali-78/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
